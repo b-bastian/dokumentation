@@ -3,15 +3,15 @@ title: GitHub
 order: 500
 ---
 <script setup>
-import { VPTeamMembers } from 'vitepress/theme'
+import { VPTeamMembers } from 'vitepress/theme';
 
 const members = [
   {
-    avatar: 'https://github.com/vuejs.png',
-    name: 'Max Muster',
-    title: 'Lorem ipsum dolor sit amet',
+    avatar: 'https://github.com/b-bastian.png',
+    name: 'Brugger Bastian',
+    title: 'Schüler an der BHAK Zell am See',
     links: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
+      { icon: 'github', link: 'https://github.com/b-bastian' },
     ]
   }
 ]
