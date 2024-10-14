@@ -1,0 +1,28 @@
+{
+  "id": "projects/xmlProject",
+  "title": "Telefon- & Adressbuch",
+  "description": "Smarte Ziele (3)",
+  "source": "@site/docs/projects/xmlProject.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/xmlProject",
+  "permalink": "/docs/projects/xmlProject",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/projects/xmlProject.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2023-12-07T00:00:00.000Z",
+    "icon": "project-roadmap",
+    "title": "Telefon- & Adressbuch"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fahrtenbuch",
+    "permalink": "/docs/projects/xmlBook"
+  },
+  "next": {
+    "title": "Alternativen bewerten",
+    "permalink": "/docs/theorie/bewerten"
+  }
+}

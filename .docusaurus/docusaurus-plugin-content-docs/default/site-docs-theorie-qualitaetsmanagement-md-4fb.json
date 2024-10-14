@@ -1,0 +1,29 @@
+{
+  "id": "theorie/qualitaetsmanagement",
+  "title": "Qualitätsmanagement",
+  "description": "Deming Kreis",
+  "source": "@site/docs/theorie/qualitaetsmanagement.md",
+  "sourceDirName": "theorie",
+  "slug": "/theorie/qualitaetsmanagement",
+  "permalink": "/docs/theorie/qualitaetsmanagement",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/theorie/qualitaetsmanagement.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2023-02-06T00:00:00.000Z",
+    "icon": "apps",
+    "order": 110000,
+    "title": "Qualitätsmanagement"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projektziele",
+    "permalink": "/docs/theorie/projektziele"
+  },
+  "next": {
+    "title": "Projektumweltanalyse",
+    "permalink": "/docs/theorie/umweltanalyse"
+  }
+}

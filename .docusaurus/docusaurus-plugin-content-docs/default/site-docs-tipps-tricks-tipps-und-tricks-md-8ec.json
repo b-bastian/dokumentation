@@ -1,0 +1,28 @@
+{
+  "id": "tipps-tricks/tipps-und-tricks",
+  "title": "Tipps & Tricks",
+  "description": "Guid - Global Unique Identifier",
+  "source": "@site/docs/tipps-tricks/tipps-und-tricks.md",
+  "sourceDirName": "tipps-tricks",
+  "slug": "/tipps-tricks/tipps-und-tricks",
+  "permalink": "/docs/tipps-tricks/tipps-und-tricks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tipps-tricks/tipps-und-tricks.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2023-10-24T00:00:00.000Z",
+    "icon": "bell",
+    "title": "Tipps & Tricks"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projektumweltanalyse",
+    "permalink": "/docs/theorie/umweltanalyse"
+  },
+  "next": {
+    "title": "Allgemeines",
+    "permalink": "/docs/tools/allgemeines"
+  }
+}

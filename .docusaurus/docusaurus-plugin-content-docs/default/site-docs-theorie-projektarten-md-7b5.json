@@ -1,0 +1,28 @@
+{
+  "id": "theorie/projektarten",
+  "title": "Projektarten",
+  "description": "Projekte können anhand der folgenden Merkmalen unterschieden werden:",
+  "source": "@site/docs/theorie/projektarten.md",
+  "sourceDirName": "theorie",
+  "slug": "/theorie/projektarten",
+  "permalink": "/docs/theorie/projektarten",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/theorie/projektarten.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2023-10-24T00:00:00.000Z",
+    "icon": "apps",
+    "order": 140000
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projekt",
+    "permalink": "/docs/theorie/projekt"
+  },
+  "next": {
+    "title": "Projektmanagementinstrumente",
+    "permalink": "/docs/theorie/projektinstrumente"
+  }
+}

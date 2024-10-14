@@ -1,0 +1,28 @@
+{
+  "id": "theorie/projektinstrumente",
+  "title": "Projektmanagementinstrumente",
+  "description": "Allgemeines",
+  "source": "@site/docs/theorie/projektinstrumente.md",
+  "sourceDirName": "theorie",
+  "slug": "/theorie/projektinstrumente",
+  "permalink": "/docs/theorie/projektinstrumente",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/theorie/projektinstrumente.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2023-12-12T00:00:00.000Z",
+    "icon": "apps",
+    "order": 50000
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projektarten",
+    "permalink": "/docs/theorie/projektarten"
+  },
+  "next": {
+    "title": "Projektmanagement",
+    "permalink": "/docs/theorie/projektmanagement"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "SE/design-patterns",
+  "title": "Design Patterns",
+  "description": "Prinzipien objektorientierten Designs sind Prinzipien, die zu gutem objektorientierten Design führen sollen. Viele Techniken der Objektorientierung wie Entwurfsmuster, Domain-driven Design oder Dependency Injection basieren auf diesen Prinzipien objektorientierten Designs.",
+  "source": "@site/docs/SE/design-patterns.md",
+  "sourceDirName": "SE",
+  "slug": "/SE/design-patterns",
+  "permalink": "/docs/SE/design-patterns",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SE/design-patterns.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2024-05-02T00:00:00.000Z",
+    "icon": "browser",
+    "order": 100000,
+    "title": "Design Patterns"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Anforderungsanalyse",
+    "permalink": "/docs/SE/anforderungsanalyse"
+  },
+  "next": {
+    "title": "Dokumente",
+    "permalink": "/docs/SE/dokumente"
+  }
+}

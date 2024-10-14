@@ -1,0 +1,133 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "SE/anforderungsanalyse",
+          "docs": [
+            {
+              "id": "allgemeines/toc",
+              "path": "/docs/allgemeines/toc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/xmlBook",
+              "path": "/docs/projects/xmlBook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/xmlProject",
+              "path": "/docs/projects/xmlProject",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SE/anforderungsanalyse",
+              "path": "/docs/SE/anforderungsanalyse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SE/design-patterns",
+              "path": "/docs/SE/design-patterns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SE/dokumente",
+              "path": "/docs/SE/dokumente",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SE/wasserfall",
+              "path": "/docs/SE/wasserfall",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/bewerten",
+              "path": "/docs/theorie/bewerten",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/initiieren",
+              "path": "/docs/theorie/initiieren",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/projekt",
+              "path": "/docs/theorie/projekt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/projekt-wuerdigkeit",
+              "path": "/docs/theorie/projekt-wuerdigkeit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/projektarten",
+              "path": "/docs/theorie/projektarten",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/projektinstrumente",
+              "path": "/docs/theorie/projektinstrumente",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/projektmanagement",
+              "path": "/docs/theorie/projektmanagement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/projektrollen",
+              "path": "/docs/theorie/projektrollen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/projektziele",
+              "path": "/docs/theorie/projektziele",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/qualitaetsmanagement",
+              "path": "/docs/theorie/qualitaetsmanagement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theorie/umweltanalyse",
+              "path": "/docs/theorie/umweltanalyse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tipps-tricks/tipps-und-tricks",
+              "path": "/docs/tipps-tricks/tipps-und-tricks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/allgemeines",
+              "path": "/docs/tools/allgemeines",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/diagrams",
+              "path": "/docs/tools/diagrams",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/SE/anforderungsanalyse",
+                "label": "SE/anforderungsanalyse"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

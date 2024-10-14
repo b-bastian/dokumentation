@@ -1,0 +1,28 @@
+{
+  "id": "theorie/projektrollen",
+  "title": "Projektrollen",
+  "description": "Auftraggeber",
+  "source": "@site/docs/theorie/projektrollen.md",
+  "sourceDirName": "theorie",
+  "slug": "/theorie/projektrollen",
+  "permalink": "/docs/theorie/projektrollen",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/theorie/projektrollen.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2023-12-12T00:00:00.000Z",
+    "icon": "apps",
+    "order": 90000
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projektmanagement",
+    "permalink": "/docs/theorie/projektmanagement"
+  },
+  "next": {
+    "title": "Projektziele",
+    "permalink": "/docs/theorie/projektziele"
+  }
+}

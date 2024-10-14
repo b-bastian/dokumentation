@@ -1,0 +1,17 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Arbeitsauftrag 17.10.2023",
+      "permalink": "/blog/2023/10/17/arbeitsauftrag",
+      "unlisted": false,
+      "date": "2023-10-17T00:00:00.000Z"
+    },
+    {
+      "title": "Exceptions",
+      "permalink": "/blog/2023/09/19/exceptions",
+      "unlisted": false,
+      "date": "2023-09-19T00:00:00.000Z"
+    }
+  ]
+}

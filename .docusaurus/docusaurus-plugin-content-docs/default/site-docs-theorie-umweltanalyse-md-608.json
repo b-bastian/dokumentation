@@ -1,0 +1,28 @@
+{
+  "id": "theorie/umweltanalyse",
+  "title": "Projektumweltanalyse",
+  "description": "Durch eine Projektumweltanalyse soll ein soziales System dargestellt werden. Die Gestaltung der Projektumweltbeziehungen ist eine Projektmanagementaufgabe.",
+  "source": "@site/docs/theorie/umweltanalyse.md",
+  "sourceDirName": "theorie",
+  "slug": "/theorie/umweltanalyse",
+  "permalink": "/docs/theorie/umweltanalyse",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/theorie/umweltanalyse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2023-12-12T00:00:00.000Z",
+    "icon": "apps",
+    "order": 100000
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Qualitätsmanagement",
+    "permalink": "/docs/theorie/qualitaetsmanagement"
+  },
+  "next": {
+    "title": "Tipps & Tricks",
+    "permalink": "/docs/tipps-tricks/tipps-und-tricks"
+  }
+}
