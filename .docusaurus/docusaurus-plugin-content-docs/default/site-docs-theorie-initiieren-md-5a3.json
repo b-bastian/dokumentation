@@ -1,0 +1,29 @@
+{
+  "id": "theorie/initiieren",
+  "title": "Projekt initiieren",
+  "description": "Um möglichst eine gute Idee für ein Projekt zu finden, können folgende Hilfsmittel verwendet werden:",
+  "source": "@site/docs/theorie/initiieren.md",
+  "sourceDirName": "theorie",
+  "slug": "/theorie/initiieren",
+  "permalink": "/docs/theorie/initiieren",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/theorie/initiieren.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2023-12-12T00:00:00.000Z",
+    "icon": "apps",
+    "order": 70000,
+    "title": "Projekt initiieren"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Alternativen bewerten",
+    "permalink": "/docs/theorie/bewerten"
+  },
+  "next": {
+    "title": "Projektwürdigkeit",
+    "permalink": "/docs/theorie/projekt-wuerdigkeit"
+  }
+}

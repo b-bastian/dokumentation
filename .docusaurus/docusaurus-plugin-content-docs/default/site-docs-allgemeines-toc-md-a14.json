@@ -1,0 +1,27 @@
+{
+  "id": "allgemeines/toc",
+  "title": "Inhaltsverzeichnis",
+  "description": "Softwareentwicklung und Projektmanagement",
+  "source": "@site/docs/allgemeines/toc.md",
+  "sourceDirName": "allgemeines",
+  "slug": "/allgemeines/toc",
+  "permalink": "/docs/allgemeines/toc",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/allgemeines/toc.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "icon": "book",
+    "order": 1000
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wasserfallmodell",
+    "permalink": "/docs/SE/wasserfall"
+  },
+  "next": {
+    "title": "Fahrtenbuch",
+    "permalink": "/docs/projects/xmlBook"
+  }
+}

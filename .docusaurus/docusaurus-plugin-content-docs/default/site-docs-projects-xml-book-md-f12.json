@@ -1,0 +1,28 @@
+{
+  "id": "projects/xmlBook",
+  "title": "Fahrtenbuch",
+  "description": "Im Fahrtenbuch werden Autofahrten eingetragen. Folgende Daten werden gespeichert:",
+  "source": "@site/docs/projects/xmlBook.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/xmlBook",
+  "permalink": "/docs/projects/xmlBook",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/projects/xmlBook.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2024-01-08T00:00:00.000Z",
+    "icon": "project-roadmap",
+    "title": "Fahrtenbuch"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Inhaltsverzeichnis",
+    "permalink": "/docs/allgemeines/toc"
+  },
+  "next": {
+    "title": "Telefon- & Adressbuch",
+    "permalink": "/docs/projects/xmlProject"
+  }
+}

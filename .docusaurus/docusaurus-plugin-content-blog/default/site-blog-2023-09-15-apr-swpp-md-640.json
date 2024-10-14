@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/2023/09/15/apr-swpp",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-09-15-apr-swpp.md",
+  "source": "@site/blog/2023-09-15-apr-swpp.md",
+  "title": "Doku",
+  "description": "",
+  "date": "2023-09-15T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "date": "2023-09-15T00:00:00.000Z",
+    "title": "Doku"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Exceptions",
+    "permalink": "/blog/2023/09/19/exceptions"
+  }
+}

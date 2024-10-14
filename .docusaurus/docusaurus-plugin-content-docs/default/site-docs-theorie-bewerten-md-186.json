@@ -1,0 +1,29 @@
+{
+  "id": "theorie/bewerten",
+  "title": "Alternativen bewerten",
+  "description": "Wenn bei einem Projekt mehrere Alternativen zur Auswahl stehen, müssen die Alternativen mit bestimmten Kriterien bewertet werden.",
+  "source": "@site/docs/theorie/bewerten.md",
+  "sourceDirName": "theorie",
+  "slug": "/theorie/bewerten",
+  "permalink": "/docs/theorie/bewerten",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/theorie/bewerten.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2023-12-12T00:00:00.000Z",
+    "icon": "apps",
+    "order": 80000,
+    "title": "Alternativen bewerten"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Telefon- & Adressbuch",
+    "permalink": "/docs/projects/xmlProject"
+  },
+  "next": {
+    "title": "Projekt initiieren",
+    "permalink": "/docs/theorie/initiieren"
+  }
+}

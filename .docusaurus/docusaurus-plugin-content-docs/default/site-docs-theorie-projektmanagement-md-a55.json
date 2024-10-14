@@ -1,0 +1,28 @@
+{
+  "id": "theorie/projektmanagement",
+  "title": "Projektmanagement",
+  "description": "Allgemeines",
+  "source": "@site/docs/theorie/projektmanagement.md",
+  "sourceDirName": "theorie",
+  "slug": "/theorie/projektmanagement",
+  "permalink": "/docs/theorie/projektmanagement",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/theorie/projektmanagement.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "date": "2023-12-12T00:00:00.000Z",
+    "icon": "apps",
+    "order": 120000
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projektmanagementinstrumente",
+    "permalink": "/docs/theorie/projektinstrumente"
+  },
+  "next": {
+    "title": "Projektrollen",
+    "permalink": "/docs/theorie/projektrollen"
+  }
+}

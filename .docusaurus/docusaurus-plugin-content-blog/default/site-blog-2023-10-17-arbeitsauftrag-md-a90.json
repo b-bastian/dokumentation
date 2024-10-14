@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/2023/10/17/arbeitsauftrag",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-10-17-arbeitsauftrag.md",
+  "source": "@site/blog/2023-10-17-arbeitsauftrag.md",
+  "title": "Arbeitsauftrag 17.10.2023",
+  "description": "Gründe für ein Projekt",
+  "date": "2023-10-17T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.24,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "date": "2023-10-17T00:00:00.000Z",
+    "title": "Arbeitsauftrag 17.10.2023"
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Exceptions",
+    "permalink": "/blog/2023/09/19/exceptions"
+  }
+}
