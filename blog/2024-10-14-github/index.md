@@ -80,7 +80,7 @@ Standardmäßig öffnet sich bei `git commit`der `vi` bzw. `vim`. Dieser Editor 
 - `:wq`: der Befehl `w` bedeutet "write", "schreiben" und `q` "quit", "beenden"
 
 :::note
-Im Editor können die `Cursor`-Tasten verwendet werden. Weiters werden noch viele
+Im Editor können die `Cursor`-Tasten verwendet werden. Weiters werden noch viele andere Befehle unterstützt.
 :::
 
 ## Meilensteine
