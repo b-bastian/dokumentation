@@ -19,8 +19,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Telefon- & Adressbuch",
-    "permalink": "/docs/projects/xmlProject"
+    "title": "Inhaltsverzeichnis",
+    "permalink": "/docs/allgemeines/toc"
   },
   "next": {
     "title": "Projekt initiieren",

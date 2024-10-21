@@ -10,7 +10,7 @@ order: 90000
 
 Bei der Softwareentwicklung müssen die Anforderungen des Kunden umgesetzt werden. Es muss versucht werden, die Wünsche des Kunden zu verstehen.
 
-::: tip
+:::tip
 Unter einer **Anforderung** versteht man eine **geforderte Leistung** bzw. **Eigenschaft** eines Softwareproduktes.
 :::
 
@@ -43,7 +43,7 @@ Anforderungen können folgendermaßen eingeteilt werden:
 - Anforderungen an die sonstigen Lieferbestandteile (Migration der Daten)
 - Rechtliche und Vertragliche Anforderungen (Vertragsbedingungen)
 
-::: danger
+:::danger
 **Wichtige Punkte** sind schriftlich festzuhalten. Abweichende Ergebnisse von einem zu erwartenden Normalzustand müssen festgehalten werden.
 :::
 
@@ -51,7 +51,7 @@ Anforderungen können folgendermaßen eingeteilt werden:
 
 Die Anforderungen an das Softwareprojekt müssten priorisiert werden, da die Ressourcen begrenzt sind. Die Umsetzung muss sich daher auf die Kernelemente der Software begrenzen.
 
-::: tip
+:::tip
 **Alle Absprachen sind verbindlich schriftlich zu fixieren, als Basis kann ein Pflichtenheft verwendet werden**.
 :::
 

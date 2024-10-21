@@ -19,6 +19,6 @@ sind **Projektziele. Projektleistungen, Projektstermine, Projektressourcen, Proj
 sind **Beziehungen im Projekt, Projektorganisation, Projektkultur und Projektrisiken**.
 **Projektkultur** beschreib das miteinander, um die Gemeinschaft zu fördern kann ein Logo und eigene Kommunikation gewählt werden.
 
-::: tip
+:::tip
 **Projektkultur**: Diese beschreibt das **Miteinander**. Um die Gemeinschaft zu fördern kann ein eigenes **Logo**, **eine eigene Kommunikationsform** etc. gewählt werden.
 :::

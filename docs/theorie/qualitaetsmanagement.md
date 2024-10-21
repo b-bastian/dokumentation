@@ -14,7 +14,7 @@ Die Kundenerwartung soll im Sinne einer Projektmanagement-Aufgabe gesteuert werd
 
 ![Deming-Kreis](/images/theorie/deming-kreis.png)
 
-::: tip
+:::tip
 Mit Controlling-Maßnahmen ist es möglich, stets die Ziele neu zu formulieren bzw. zu adaptieren.
 :::
 
@@ -22,7 +22,7 @@ Mit Controlling-Maßnahmen ist es möglich, stets die Ziele neu zu formulieren b
 
 Mit der agilen Softwareentwicklung wird versucht die Software flexibler, schneller und kundenorentierter zu erstellen. Durch mehrere **zyklische Besprechungen bzw. Vorstellungen** wird der Kunde besser in die Entwicklung miteinbezogen und kann dadurch das Produkt wesentlich mitbestimmen.
 
-::: caution
+:::warning
 **Vereinbarungen** hinsichtlich des **Umfangs des Produktes** sind selbstverständlich einzuhalten.
 :::
 

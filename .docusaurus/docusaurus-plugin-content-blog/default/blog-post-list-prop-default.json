@@ -2,6 +2,18 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Zeilenumbruch in PhpStorm",
+      "permalink": "/blog/2024/10/18/phpstorm-softwrap",
+      "unlisted": false,
+      "date": "2024-10-18T00:00:00.000Z"
+    },
+    {
+      "title": "Arbeit mit GitHub",
+      "permalink": "/blog/2024/10/14/github",
+      "unlisted": false,
+      "date": "2024-10-14T00:00:00.000Z"
+    },
+    {
       "title": "Arbeitsauftrag 17.10.2023",
       "permalink": "/blog/2023/10/17/arbeitsauftrag",
       "unlisted": false,

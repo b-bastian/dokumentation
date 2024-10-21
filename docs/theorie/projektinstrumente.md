@@ -16,7 +16,7 @@ Hinsichtlich `Projektmanagement`bitte den Bereiche `Allgemeine Theorie > Projekt
 
 Der **Projektantrag** ist eine grobe Beschreibung des Projektes. Es handelt sich um ein formloses Schreiben. Der Projektauftrag hingegen ist ein Vertrag - er dient als Start des Projektes. Das Team wird beauftragt und die Zielvereinbarungen werden getroffen.
 
-::: tip
+:::tip
 Oft werden für einen Antrag bzw. für einen Auftrag die gleichen Formulare verwendet
 :::
 
@@ -34,7 +34,7 @@ Besondere Ereignisse, welche Einfluss auf das Projekt haben/hatten.
 
 Ziele werden analysiert. Durch Festlegung von **Hauptzielen**, **Zusatzzielen** und **Nicht**-**Zielen** ist eine Abgrenzung einfacher möglich (Projektzieleplan - sachliche Projektabgrenzung).
 
-::: tip
+:::tip
 Änderungen sind entsprechend zu dokumentieren (Wer?, Was?, Datum)
 :::
 

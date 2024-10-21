@@ -6,11 +6,26 @@
   "description": "Allgemeines",
   "date": "2023-09-19T00:00:00.000Z",
   "tags": [],
-  "readingTime": 2.155,
+  "readingTime": 2.145,
   "hasTruncateMarker": true,
-  "authors": [],
+  "authors": [
+    {
+      "name": "Brugger Bastian",
+      "title": "Schüler an der BHAK Zell am See",
+      "url": "https://github.com/b-bastian",
+      "page": {
+        "permalink": "/blog/authors/b-bastian"
+      },
+      "socials": {
+        "github": "https://github.com/b-bastian"
+      },
+      "imageURL": "https://github.com/b-bastian.png",
+      "key": "b-bastian"
+    }
+  ],
   "frontMatter": {
     "date": "2023-09-19T00:00:00.000Z",
+    "authors": "b-bastian",
     "title": "Exceptions"
   },
   "unlisted": false,

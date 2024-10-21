@@ -1,12 +1,12 @@
-import lunr from "/Users/bastian/Git/dokumentation-b-bastian/node_modules/lunr/lunr.js";
-require("/Users/bastian/Git/dokumentation-b-bastian/node_modules/lunr-languages/lunr.stemmer.support.js")(lunr);
-require("/Users/bastian/Git/dokumentation-b-bastian/node_modules/lunr-languages/lunr.de.js")(lunr);
-require("/Users/bastian/Git/dokumentation-b-bastian/node_modules/lunr-languages/lunr.multi.js")(lunr);
+import lunr from "/Users/bastian/Git/dokus/dokumentation/node_modules/lunr/lunr.js";
+require("/Users/bastian/Git/dokus/dokumentation/node_modules/lunr-languages/lunr.stemmer.support.js")(lunr);
+require("/Users/bastian/Git/dokus/dokumentation/node_modules/lunr-languages/lunr.de.js")(lunr);
+require("/Users/bastian/Git/dokus/dokumentation/node_modules/lunr-languages/lunr.multi.js")(lunr);
 export const language = ["de","en"];
 export const removeDefaultStopWordFilter = false;
 export const removeDefaultStemmer = false;
 export const Mark = null;
-export const searchIndexUrl = "search-index{dir}.json?_=7da26b9a";
+export const searchIndexUrl = "search-index{dir}.json?_=6b7131d0";
 export const searchResultLimits = 8;
 export const searchResultContextMaxLength = 50;
 export const explicitSearchResultPath = false;

@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2024/10/14/github",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-10-14-github/index.md",
+  "source": "@site/blog/2024-10-14-github/index.md",
+  "title": "Arbeit mit GitHub",
+  "description": "GitHub eignet sich optimal zur Projektverwaltung. Es bietet",
+  "date": "2024-10-14T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 2.71,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Brugger Bastian",
+      "title": "Schüler an der BHAK Zell am See",
+      "url": "https://github.com/b-bastian",
+      "page": {
+        "permalink": "/blog/authors/b-bastian"
+      },
+      "socials": {
+        "github": "https://github.com/b-bastian"
+      },
+      "imageURL": "https://github.com/b-bastian.png",
+      "key": "b-bastian"
+    }
+  ],
+  "frontMatter": {
+    "authors": "b-bastian",
+    "date": "2024-10-14T00:00:00.000Z"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Zeilenumbruch in PhpStorm",
+    "permalink": "/blog/2024/10/18/phpstorm-softwrap"
+  },
+  "nextItem": {
+    "title": "Arbeitsauftrag 17.10.2023",
+    "permalink": "/blog/2023/10/17/arbeitsauftrag"
+  }
+}

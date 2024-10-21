@@ -14,3 +14,5 @@ order: 1000
 | 04. Oktober 2024 | 2       | Projektmanagement: Issue, Meilenstein & Workflow, Commits, PhpStorm installiert, .gitignore wiederholt                                                                                           |
 | 07. Oktober 2024 | 2       | Git-Tags, Git-Zweige, Release, Semantic                                                                                                                                                          |
 | 11. Oktober 2024 | 2       | Dokumentation migriert auf vitepress                                                                                                                                                             |
+| 14. Oktober 2024 | 2       | Dokumentation migriert auf docusaurus                                                                                                                                                            |
+| 21. Oktober 2024 | 2       | Branches, Kankan, Projekt, Git-Commit, ViewModel-Tests                                                                                                                                           |

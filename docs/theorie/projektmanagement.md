@@ -10,11 +10,11 @@ order: 120000
 
 **Projektmanagement** dient der effizienten Verwendung der Ressourcen eines Unternehmens und hat zum **Ziel eine sehr gute Qualität** zu erreichen.
 
-::: tip
+:::tip
 Der Erfolg kann nicht garantiert werden - ohne ein begleitendes Projektmanagement ist jedoch die Wahrscheinlichkeit zu scheitern höher.
 :::
 
-::: tip
+:::tip
 **Ressourcen:** Als Ressourcen werden alle Mittel, welche zur Planung, Umsetzung und schließlich zum erfolgreichen Abschluss eines Projektes benötigt werden, bezeichnet (zB Personal, Kapital, Know-How, Rohstoffe, Betriebsmittel, Zeit)
 :::
 
@@ -30,7 +30,7 @@ Die Softwareentwicklung unterliegt in einem Unternehmen
 
 (**Sommerville, Ian.** Software Engineering, München: Pearson Deutschland GmbH, 2012, )
 
-::: tip
+:::tip
 Für eine **Softwarefirma** sind gute ProgrammiererInnen das "größte Kapital"
 :::
 
@@ -48,6 +48,6 @@ Mit einem Flussdiagramm (lt. PM Basic Syllabus) kann dieser Prozess auch folgend
 
 [!file](/downloads/theorie/projektmanagement-prozess.drawio)
 
-::: tip
+:::tip
 In der Literatur findet man hinsichtlich zeitlichen Projektkontext auch die Begriffe **Vorprojektphase**, **Projekt** und **Nachprojektphase**.
 :::

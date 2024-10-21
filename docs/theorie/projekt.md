@@ -21,7 +21,7 @@ Folgende Gründe sprechen für ein Projekt:
 - Aufgaben sind komplex
 - es handelt sich nicht um das Alltagsgeschäft des Unternehmens
 
-::: danger
+:::danger
 Eine Routinetätigkeit in einer Firma ist **kein Projekt**.
 :::
 
@@ -33,6 +33,6 @@ Eine Routinetätigkeit in einer Firma ist **kein Projekt**.
 - Es herrscht ein **soziales System (innen und außen)**. Die **Beziehungen im Projekt** und **außerhalb** müssten unterschieden werden
 - Die verfügbaren Ressourcen sind begrenzt (Personal, Geld, Material, Know-How,...)
 
-::: tip
+:::tip
 **Stakeholder:** Ein Stakeholder ist einer Person, die am Verhalten eines Unternehemsn interessiert ist (z.B. Aktionär, Mitarbeiter, Kunde, Lieferant, ...).
 :::

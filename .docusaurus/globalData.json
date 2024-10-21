@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "SE/anforderungsanalyse",
+          "mainDocId": "allgemeines/toc",
           "docs": [
             {
               "id": "allgemeines/toc",
@@ -120,8 +120,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/SE/anforderungsanalyse",
-                "label": "SE/anforderungsanalyse"
+                "path": "/docs/allgemeines/toc",
+                "label": "allgemeines/toc"
               }
             }
           }

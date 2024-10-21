@@ -25,7 +25,7 @@ export default {
   "themes": [
     "@docusaurus/theme-mermaid",
     [
-      "/Users/bastian/Git/dokumentation-b-bastian/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
+      "/Users/bastian/Git/dokus/dokumentation/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
       {
         "hashed": true,
         "language": [

@@ -1,6 +1,6 @@
 ---
 date: 2023-09-19
-
+authors: b-bastian
 title: Exceptions
 ---
 
@@ -50,7 +50,7 @@ try {
 }
 ```
 
-::: danger ACHTUNG
+:::danger ACHTUNG
 Die Bearbeitung wird im `try`-Bereich bis zum Auftritt eines Fehlers ersucht. Beim Auftreten eines Fehlers wird **sofort** in den `catch`-Bereich gewechselt.
 :::
 
@@ -125,6 +125,6 @@ Eigene Exceptions können mittels `throw new Exceptin("Test der Nachricht")` aus
 
 Möchte man eine **eigene Exception** verwenden, so muss eine **Unterklasse** der Exception erstellt werden.
 
-::: tip
+:::tip
 Visual Studio (Windows) erstellt den Inhalt der Unterklasse nach der Angabe der Vererbung automatisch. :wink: :100: :fire: :apple: :relaxed: :mask:
 :::

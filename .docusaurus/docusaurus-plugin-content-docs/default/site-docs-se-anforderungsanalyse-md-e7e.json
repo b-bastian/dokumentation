@@ -17,6 +17,10 @@
     "order": 90000
   },
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Telefon- & Adressbuch",
+    "permalink": "/docs/projects/xmlProject"
+  },
   "next": {
     "title": "Design Patterns",
     "permalink": "/docs/SE/design-patterns"

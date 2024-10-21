@@ -9,7 +9,7 @@ icon: apps
 
 Wortwolken können einfach unter https://www.wortwolken.com/ erstellt werden. Die eingegebenen Wörter können in einer Vorlage angezeigt (und bei Bedarf wiederholt) werden.
 
-::: tip
+:::tip
 Zur späteren Weiterbearbeitung ist es wichtig, die eingegebenen Wörter als `.CSV`-Datei zu speichern.
 :::
 

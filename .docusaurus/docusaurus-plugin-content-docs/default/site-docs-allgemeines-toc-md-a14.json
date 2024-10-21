@@ -16,12 +16,8 @@
     "order": 1000
   },
   "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Wasserfallmodell",
-    "permalink": "/docs/SE/wasserfall"
-  },
   "next": {
-    "title": "Fahrtenbuch",
-    "permalink": "/docs/projects/xmlBook"
+    "title": "Alternativen bewerten",
+    "permalink": "/docs/theorie/bewerten"
   }
 }

@@ -42,13 +42,19 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-26e": {
+  "/blog-994": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
+      {
+        "content": "content---blogb-82-2ea"
+      },
+      {
+        "content": "content---blog-0-b-1-76c"
+      },
       {
         "content": "content---blog-4-b-7-7d0"
       },
@@ -80,6 +86,28 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-2023-10-17-arbeitsauftraga-90-ac6"
   },
+  "/blog/2024/10/14/github-f80": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-09-19-exceptionsace-e21"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-10-14-github-552-ed7"
+  },
+  "/blog/2024/10/18/phpstorm-softwrap-585": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-09-19-exceptionsace-e21"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-10-18-phpstorm-softwrapc-94-693"
+  },
   "/blog/archive-182": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
@@ -98,7 +126,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "__props": "__props---blog-authorsef-8-44f"
   },
-  "/blog/authors/b-bastian-488": {
+  "/blog/authors/b-bastian-a22": {
     "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
@@ -106,7 +134,20 @@
       },
       "plugin": "plugin---blog-369-22e"
     },
-    "items": [],
+    "items": [
+      {
+        "content": "content---blogb-82-2ea"
+      },
+      {
+        "content": "content---blog-0-b-1-76c"
+      },
+      {
+        "content": "content---blog-4-b-7-7d0"
+      },
+      {
+        "content": "content---blog-0-ed-273"
+      }
+    ],
     "sidebar": "sidebar---blog-814-8ac",
     "__props": "__props---blog-authors-b-bastianbb-3-421"
   },

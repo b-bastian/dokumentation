@@ -8,12 +8,31 @@
   "tags": [],
   "readingTime": 1.24,
   "hasTruncateMarker": true,
-  "authors": [],
+  "authors": [
+    {
+      "name": "Brugger Bastian",
+      "title": "Schüler an der BHAK Zell am See",
+      "url": "https://github.com/b-bastian",
+      "page": {
+        "permalink": "/blog/authors/b-bastian"
+      },
+      "socials": {
+        "github": "https://github.com/b-bastian"
+      },
+      "imageURL": "https://github.com/b-bastian.png",
+      "key": "b-bastian"
+    }
+  ],
   "frontMatter": {
     "date": "2023-10-17T00:00:00.000Z",
+    "authors": "b-bastian",
     "title": "Arbeitsauftrag 17.10.2023"
   },
   "unlisted": false,
+  "prevItem": {
+    "title": "Arbeit mit GitHub",
+    "permalink": "/blog/2024/10/14/github"
+  },
   "nextItem": {
     "title": "Exceptions",
     "permalink": "/blog/2023/09/19/exceptions"

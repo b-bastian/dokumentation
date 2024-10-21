@@ -9,7 +9,7 @@ title: Alternativen bewerten
 
 Wenn bei einem Projekt mehrere Alternativen zur Auswahl stehen, müssen die Alternativen mit bestimmten Kriterien bewertet werden.
 
-::: tip
+:::tip
 Um auf **große Zustimmung** zu stoßen, ist es emfehlenswert diese Entscheidungen **im Team** zu treffen.
 :::
 
@@ -42,7 +42,7 @@ Die eigene Lage kann auch sehr gut mit einer "Feature-Matrix" verglichen werden.
 
 Eine **nicht-monetäre Analyse** stellt die Nutzwertanalyse dar. Mit dieser Analyse werden mehrere Alternativen aufgelistet und entsprechend nach **selbst gewählten Kriterien** bewertet.
 
-::: danger
+:::danger
 Da die Festlegung der Kriterien und der Gewichtung selbst erfolgt, muss natürlich berücksichtigt werden, dass diese Analyse auch **subjektiv** ist.
 :::
 

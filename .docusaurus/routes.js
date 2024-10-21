@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '26e'),
+    component: ComponentCreator('/blog', '994'),
     exact: true
   },
   {
@@ -50,6 +50,16 @@ export default [
   {
     path: '/blog/2023/10/17/arbeitsauftrag',
     component: ComponentCreator('/blog/2023/10/17/arbeitsauftrag', '434'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/10/14/github',
+    component: ComponentCreator('/blog/2024/10/14/github', 'f80'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/10/18/phpstorm-softwrap',
+    component: ComponentCreator('/blog/2024/10/18/phpstorm-softwrap', '585'),
     exact: true
   },
   {
@@ -64,7 +74,7 @@ export default [
   },
   {
     path: '/blog/authors/b-bastian',
-    component: ComponentCreator('/blog/authors/b-bastian', '488'),
+    component: ComponentCreator('/blog/authors/b-bastian', 'a22'),
     exact: true
   },
   {
