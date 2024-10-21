@@ -3,10 +3,10 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-10-14-github/index.md",
   "source": "@site/blog/2024-10-14-github/index.md",
   "title": "Arbeit mit GitHub",
-  "description": "GitHub eignet sich optimal zur Projektverwaltung. Es bietet",
+  "description": "Allgemeines",
   "date": "2024-10-14T00:00:00.000Z",
   "tags": [],
-  "readingTime": 2.71,
+  "readingTime": 5.015,
   "hasTruncateMarker": true,
   "authors": [
     {
