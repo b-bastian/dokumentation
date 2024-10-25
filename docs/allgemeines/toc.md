@@ -16,5 +16,5 @@ order: 1000
 | 11. Oktober 2024  | 2       | Dokumentation migriert auf vitepress                                                                                                                                                             |
 | 14. Oktober 2024  | 2       | Dokumentation migriert auf docusaurus                                                                                                                                                            |
 | 21. Oktober 2024  | 2       | Branches, Kankan, Projekt, Git-Commit, ViewModel-Tests                                                                                                                                           |
-| 25. Oktober 2024  | 2       | TodoApp Einrichtung inkl. `Core` und `Data` fertiggestellt Test, Command AddTodo bur bei vorhandenem Todo aufrufen                                                                               |
+| 25. Oktober 2024  | 2       | TodoApp Einrichtung inkl. `Core` und `Data` fertiggestellt Test, Command AddTodo nur bei vorhandenem Todo aufrufen                                                                               |
 | 04. November 2024 | 2       | TodoApp Unit Tests                                                                                                                                                                               |
