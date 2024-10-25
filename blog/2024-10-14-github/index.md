@@ -117,7 +117,7 @@ An einem Git-Projekt können mehrere Personen beteiligt sein. Die Arbeit erfolgt
 
 Durch die Verwendung von `branches` können Fehler rasch zurückgesetzt werden und das Team wird durch fehlerhafte oder noch nicht fertig gestellte Funktionen nicht gestört.
 
-![Workflow](./git-workflow.svg)
+![Workflow](./git-workflow.svg)[^1]
 
 Die Erstellung eines `branches` erfolgt mittens `git checkout -b [ZWEIGNAME]`. Mit diesem Befehl wird der Zweig auch automatisch "ausgecheckt". Ansonsten kann mit der Angabe eines "Branches" der gewünschte Zweig angegeben werden (z.B. `git checkout main`).
 
@@ -146,3 +146,5 @@ Ein Issue muss immer mit dem PRojekt verbunden werden bzw. kann auch in der Road
 ![Start und Ende](./git-roadmap-start-end.png)
 
 Um ein "Gantt" anzuzeigen, müssen die Datumfelder festgelegt werden.
+
+[^1]: **Hoang**. Git Workflow Action. URL: https://github.com/marketplace/actions/gitflow-workflow-action, Datum: 25. Oktober 2024
