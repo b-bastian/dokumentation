@@ -42,13 +42,16 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-994": {
+  "/blog-976": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
+      {
+        "content": "content---blog-8-ce-093"
+      },
       {
         "content": "content---blogb-82-2ea"
       },
@@ -108,6 +111,17 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-2024-10-18-phpstorm-softwrapc-94-693"
   },
+  "/blog/2024/11/04/index-06e": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-09-19-exceptionsace-e21"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-11-04-indexfa-5-441"
+  },
   "/blog/archive-182": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
@@ -126,7 +140,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "__props": "__props---blog-authorsef-8-44f"
   },
-  "/blog/authors/b-bastian-a22": {
+  "/blog/authors/b-bastian-3f9": {
     "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
@@ -135,6 +149,9 @@
       "plugin": "plugin---blog-369-22e"
     },
     "items": [
+      {
+        "content": "content---blog-8-ce-093"
+      },
       {
         "content": "content---blogb-82-2ea"
       },

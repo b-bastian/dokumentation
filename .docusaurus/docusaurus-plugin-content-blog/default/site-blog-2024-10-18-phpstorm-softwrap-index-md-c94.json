@@ -27,6 +27,10 @@
     "authors": "b-bastian"
   },
   "unlisted": false,
+  "prevItem": {
+    "title": "PHP-Konfiguration",
+    "permalink": "/blog/2024/11/04/index"
+  },
   "nextItem": {
     "title": "Arbeit mit GitHub",
     "permalink": "/blog/2024/10/14/github"
