@@ -41,6 +41,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "SE/softwaretests",
+              "path": "/docs/SE/softwaretests",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "SE/wasserfall",
               "path": "/docs/SE/wasserfall",
               "sidebar": "tutorialSidebar"

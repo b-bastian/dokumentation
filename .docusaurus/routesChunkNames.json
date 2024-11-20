@@ -174,17 +174,17 @@
       "plugin": "plugin---search-138-688"
     }
   },
-  "/docs-735": {
+  "/docs-137": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-b74": {
+  "/docs-4e5": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-b87": {
+  "/docs-359": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/allgemeines/toc-866": {
@@ -210,6 +210,10 @@
   "/docs/SE/dokumente-101": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-se-dokumente-427-e8f"
+  },
+  "/docs/SE/softwaretests-b2a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-se-softwaretests-2-e-9-e89"
   },
   "/docs/SE/wasserfall-83b": {
     "__comp": "__comp---theme-doc-item-178-a40",

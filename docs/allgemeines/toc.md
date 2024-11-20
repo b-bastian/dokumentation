@@ -18,4 +18,5 @@ order: 1000
 | 21. Oktober 2024  | 2       | Branches, Kankan, Projekt, Git-Commit, ViewModel-Tests                                                                                                                                           |
 | 25. Oktober 2024  | 2       | TodoApp Einrichtung inkl. `Core` und `Data` fertiggestellt Test, Command AddTodo nur bei vorhandenem Todo aufrufen                                                                               |
 | 04. November 2024 | 2       | Einführung in PHP                                                                                                                                                                                |
-| 08. November      | 2       | ViewModel Tests in eigenen Feature-Branch und Merge dieses Zweiges; zuvor wurden die Klassenbibliothekne umgestellt                                                                              |
+| 08. November 2024 | 2       | ViewModel Tests in eigenen Feature-Branch und Merge dieses Zweiges; zuvor wurden die Klassenbibliothekne umgestellt                                                                              |
+| 11. November 2024 | 2       | Lokalisierung, Blog-Beitrag bzgl. Merge, Eintrag in Softwareentwicklung "Softwaretests"                                                                                                          |

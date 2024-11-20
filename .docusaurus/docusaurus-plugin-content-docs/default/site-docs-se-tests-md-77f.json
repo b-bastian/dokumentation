@@ -1,0 +1,26 @@
+{
+  "id": "SE/tests",
+  "title": "tests",
+  "description": "",
+  "source": "@site/docs/SE/tests.md",
+  "sourceDirName": "SE",
+  "slug": "/SE/tests",
+  "permalink": "/docs/SE/tests",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SE/tests.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "authors": "b-bastian"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dokumente",
+    "permalink": "/docs/SE/dokumente"
+  },
+  "next": {
+    "title": "Wasserfallmodell",
+    "permalink": "/docs/SE/wasserfall"
+  }
+}

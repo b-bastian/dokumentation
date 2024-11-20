@@ -89,15 +89,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '735'),
+    component: ComponentCreator('/docs', '137'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'b74'),
+        component: ComponentCreator('/docs', '4e5'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'b87'),
+            component: ComponentCreator('/docs', '359'),
             routes: [
               {
                 path: '/docs/allgemeines/toc',
@@ -132,6 +132,12 @@ export default [
               {
                 path: '/docs/SE/dokumente',
                 component: ComponentCreator('/docs/SE/dokumente', '101'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/SE/softwaretests',
+                component: ComponentCreator('/docs/SE/softwaretests', 'b2a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

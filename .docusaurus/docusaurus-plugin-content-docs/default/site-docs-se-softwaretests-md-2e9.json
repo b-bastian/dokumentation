@@ -1,0 +1,27 @@
+{
+  "id": "SE/softwaretests",
+  "title": "Softwaretests",
+  "description": "Einfacher Test",
+  "source": "@site/docs/SE/softwaretests.md",
+  "sourceDirName": "SE",
+  "slug": "/SE/softwaretests",
+  "permalink": "/docs/SE/softwaretests",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SE/softwaretests.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "authors": "b-bastian",
+    "date": "2024-11-11T00:00:00.000Z"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dokumente",
+    "permalink": "/docs/SE/dokumente"
+  },
+  "next": {
+    "title": "Wasserfallmodell",
+    "permalink": "/docs/SE/wasserfall"
+  }
+}
