@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/2024/11/25/lokalisierung",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-11-25-lokalisierung/index.md",
+  "source": "@site/blog/2024-11-25-lokalisierung/index.md",
+  "title": "Lokalisierung",
+  "description": "Um eine .NET MAUI-App zu lokalisieren (= übersetzen) werden Ressourcen-Dateien benötigt. In einem Ordner namens z.B. Resources > String wird eine AppResources.resx erstellt. In dieser Datei werden die englischen Bezeichnungen erfasst (Fallback-Language).",
+  "date": "2024-11-25T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.585,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Brugger Bastian",
+      "title": "Schüler an der BHAK Zell am See",
+      "url": "https://github.com/b-bastian",
+      "page": {
+        "permalink": "/blog/authors/b-bastian"
+      },
+      "socials": {
+        "github": "https://github.com/b-bastian"
+      },
+      "imageURL": "https://github.com/b-bastian.png",
+      "key": "b-bastian"
+    }
+  ],
+  "frontMatter": {
+    "authors": "b-bastian",
+    "date": "2024-11-25"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Klassendiagramm",
+    "permalink": "/blog/2024/12/02/klassendiagramm"
+  },
+  "nextItem": {
+    "title": "PHP-Konfiguration",
+    "permalink": "/blog/2024/11/04/index"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/2024/12/02/klassendiagramm",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-12-02-klassendiagramm/index.md",
+  "source": "@site/blog/2024-12-02-klassendiagramm/index.md",
+  "title": "Klassendiagramm",
+  "description": "Klassendiagramme können schnell mittels Mermaid erstellt werden. Mermaid wird auch von GitHub unterstützt.",
+  "date": "2024-12-02T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.185,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Brugger Bastian",
+      "title": "Schüler an der BHAK Zell am See",
+      "url": "https://github.com/b-bastian",
+      "page": {
+        "permalink": "/blog/authors/b-bastian"
+      },
+      "socials": {
+        "github": "https://github.com/b-bastian"
+      },
+      "imageURL": "https://github.com/b-bastian.png",
+      "key": "b-bastian"
+    }
+  ],
+  "frontMatter": {
+    "authors": "b-bastian",
+    "date": "2024-12-02"
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Lokalisierung",
+    "permalink": "/blog/2024/11/25/lokalisierung"
+  }
+}

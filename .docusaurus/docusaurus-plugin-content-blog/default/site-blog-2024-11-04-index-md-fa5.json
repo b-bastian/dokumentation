@@ -27,6 +27,10 @@
     "authors": "b-bastian"
   },
   "unlisted": false,
+  "prevItem": {
+    "title": "Lokalisierung",
+    "permalink": "/blog/2024/11/25/lokalisierung"
+  },
   "nextItem": {
     "title": "Zeilenumbruch in PhpStorm",
     "permalink": "/blog/2024/10/18/phpstorm-softwrap"

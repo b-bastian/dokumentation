@@ -42,13 +42,19 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-976": {
+  "/blog-a6a": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
+      {
+        "content": "content---blog-548-078"
+      },
+      {
+        "content": "content---blog-1-c-5-b3e"
+      },
       {
         "content": "content---blog-8-ce-093"
       },
@@ -122,6 +128,28 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-2024-11-04-indexfa-5-441"
   },
+  "/blog/2024/11/25/lokalisierung-404": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-09-19-exceptionsace-e21"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-11-25-lokalisierung-057-a51"
+  },
+  "/blog/2024/12/02/klassendiagramm-d01": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-09-19-exceptionsace-e21"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-12-02-klassendiagrammb-63-7b7"
+  },
   "/blog/archive-182": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
@@ -140,7 +168,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "__props": "__props---blog-authorsef-8-44f"
   },
-  "/blog/authors/b-bastian-3f9": {
+  "/blog/authors/b-bastian-f91": {
     "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
@@ -149,6 +177,12 @@
       "plugin": "plugin---blog-369-22e"
     },
     "items": [
+      {
+        "content": "content---blog-548-078"
+      },
+      {
+        "content": "content---blog-1-c-5-b3e"
+      },
       {
         "content": "content---blog-8-ce-093"
       },

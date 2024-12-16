@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '976'),
+    component: ComponentCreator('/blog', 'a6a'),
     exact: true
   },
   {
@@ -68,6 +68,16 @@ export default [
     exact: true
   },
   {
+    path: '/blog/2024/11/25/lokalisierung',
+    component: ComponentCreator('/blog/2024/11/25/lokalisierung', '404'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/12/02/klassendiagramm',
+    component: ComponentCreator('/blog/2024/12/02/klassendiagramm', 'd01'),
+    exact: true
+  },
+  {
     path: '/blog/archive',
     component: ComponentCreator('/blog/archive', '182'),
     exact: true
@@ -79,7 +89,7 @@ export default [
   },
   {
     path: '/blog/authors/b-bastian',
-    component: ComponentCreator('/blog/authors/b-bastian', '3f9'),
+    component: ComponentCreator('/blog/authors/b-bastian', 'f91'),
     exact: true
   },
   {

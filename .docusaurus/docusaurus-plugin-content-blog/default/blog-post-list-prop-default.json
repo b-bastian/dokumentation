@@ -2,6 +2,18 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Klassendiagramm",
+      "permalink": "/blog/2024/12/02/klassendiagramm",
+      "unlisted": false,
+      "date": "2024-12-02T00:00:00.000Z"
+    },
+    {
+      "title": "Lokalisierung",
+      "permalink": "/blog/2024/11/25/lokalisierung",
+      "unlisted": false,
+      "date": "2024-11-25T00:00:00.000Z"
+    },
+    {
       "title": "PHP-Konfiguration",
       "permalink": "/blog/2024/11/04/index",
       "unlisted": false,
@@ -18,18 +30,6 @@
       "permalink": "/blog/2024/10/14/github",
       "unlisted": false,
       "date": "2024-10-14T00:00:00.000Z"
-    },
-    {
-      "title": "Arbeitsauftrag 17.10.2023",
-      "permalink": "/blog/2023/10/17/arbeitsauftrag",
-      "unlisted": false,
-      "date": "2023-10-17T00:00:00.000Z"
-    },
-    {
-      "title": "Exceptions",
-      "permalink": "/blog/2023/09/19/exceptions",
-      "unlisted": false,
-      "date": "2023-09-19T00:00:00.000Z"
     }
   ]
 }
