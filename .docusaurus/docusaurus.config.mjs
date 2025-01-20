@@ -145,7 +145,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2024 Mag. Peter Rasser"
+      "copyright": "Copyright © 2025 Mag. Peter Rasser"
     },
     "prism": {
       "theme": {
